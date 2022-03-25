@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+.carousel-item img{
+    height: 70vh;
+    object-fit: contain;
+}
+
+.navbar-brand{
+    margin-right: 30%;
+}
+
+.nav-item{
+    margin: 0 20px;
+}
+
+.col-lg-6 img{
+    height: 40vh;
+    margin-left: 70px;
+}
